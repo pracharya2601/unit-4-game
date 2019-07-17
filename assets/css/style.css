@@ -1,0 +1,64 @@
+
+body {
+	background-image: url(https://ak7.picdn.net/shutterstock/videos/16128067/thumb/1.jpg);
+}
+
+.how-to-play{
+	background-color: #ffffcc;
+}
+
+#gameSection {
+	margin-left: auto;
+	margin-right: auto;
+}
+}
+#final-section {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#final-section {
+	background-color: skyblue;
+}
+
+/*FOR TESTING*/
+#numberSection, #totalPoints {
+	background-color: lightseagreen;
+}
+
+#buttonSection {
+	align-content: center;
+	display: block;
+	background-image:url(https://ak7.picdn.net/shutterstock/videos/16128067/thumb/1.jpg);
+	padding: 0px;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+/* Fonts */
+h2{
+	background-color: orange;
+}
+h2, h3 {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+p {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.numberBox {
+	font-size: 50px;
+	margin: 0px;
+}
+
+.icons {
+	margin-left: 20px;
+	display: inline-block;
+  	max-width: 100px;
+  	max-height: 100px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}
