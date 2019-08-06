@@ -8,3 +8,5 @@ You win the game by matching your total score to random number, you lose the gam
 The value of each crystal is hidden from you until you click on it.
 
 Each time when the game starts, the game will change the values of each crystal.
+
+Check out: https://pracharya2601.github.io/unit-4-game/
