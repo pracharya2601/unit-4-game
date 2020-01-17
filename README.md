@@ -1,6 +1,6 @@
 <h1>unit-4-game</h1>
 <hr>
-Link:<a href="https://pracharya2601.github.io/unit-4-game/" target="_/blank">Deployed demo</a>
+Link:  <a href="https://pracharya2601.github.io/unit-4-game/" target="_/blank">Check out the APP</a>
 <hr>
 <h2> Built With </h2>
 <ul>
