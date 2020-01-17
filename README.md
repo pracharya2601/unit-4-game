@@ -21,3 +21,7 @@ You win the game by matching your total score to random number, you lose the gam
 The value of each crystal is hidden from you until you click on it.
 
 Each time when the game starts, the game will change the values of each crystal.
+
+<br>
+<img src="assets/images/unit-4-game.png" height="auto" width="100%">
+<hr>
