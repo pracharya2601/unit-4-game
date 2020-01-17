@@ -1,6 +1,6 @@
 
 body {
-	background-image: url(https://ak7.picdn.net/shutterstock/videos/16128067/thumb/1.jpg);
+	background-image: url('../images/background-1.jpg');
 }
 
 .how-to-play{
@@ -11,7 +11,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 }
-}
+
 #final-section {
 	display: block;
 	margin-left: auto;
@@ -29,9 +29,13 @@ body {
 
 #buttonSection {
 	align-content: center;
-	display: block;
-	background-image:url(https://ak7.picdn.net/shutterstock/videos/16128067/thumb/1.jpg);
-	padding: 0px;
+	background-image: url('../images/background-1.jpg');
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	background-position-y: center;
+	background-position-x: calc(100%);
+	padding-left: 25%;
+	padding-right: 15%;
 	padding-top: 50px;
 	padding-bottom: 25px;
 }
@@ -42,6 +46,7 @@ h2{
 }
 h2, h3 {
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	padding: 10px;
 }
 
 p {
@@ -60,5 +65,8 @@ p {
   	max-height: 100px;
   	width: auto;
   	height: auto;
-  	margin:10px;
+}
+
+.icons:hover {
+	border: 1px solid red ;
 }
